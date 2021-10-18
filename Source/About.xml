@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Architect Expanded - Fences (Tab Patch)</name>
+  <author>Nif</author>
+  <packageId>Nif.ArchitectExpanded.FencesTabPatch</packageId>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <description>A patch that creates a Fence tab.</description>
+  <loadAfter>
+    <li>Nif.ArchitectExpanded.Fences</li>
+  </loadAfter>
+  <modDependencies>
+    <li>
+      <packageId>Nif.ArchitectExpanded.Fences</packageId>
+      <displayName>Architect Expanded - Fences</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2050680665</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+</ModMetaData>

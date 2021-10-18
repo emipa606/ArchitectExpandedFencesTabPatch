@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/ThingDef[@Name="FenceBase"]/designationCategory</xpath>
+    <value>
+      <designationCategory>ArchitectExpandedFence</designationCategory>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/ThingDef[@Name="GateBase"]/designationCategory</xpath>
+    <value>
+      <designationCategory>ArchitectExpandedFence</designationCategory>
+    </value>
+  </Operation>
+</Patch>
